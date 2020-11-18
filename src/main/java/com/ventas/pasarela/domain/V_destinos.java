@@ -1,4 +1,4 @@
-package com.grupopalomino.ventas.pasarela.domain;
+package com.ventas.pasarela.domain;
 
 public class V_destinos {
 

@@ -1,4 +1,4 @@
-package com.grupopalomino.ventas.pasarela;
+package com.ventas.pasarela;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.grupopalomino.ventas.pasarela.dao;
+package com.ventas.pasarela.dao;
 
 import java.util.List;
 import java.util.Map;
@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 import org.springframework.stereotype.Repository;
 
-import com.grupopalomino.ventas.pasarela.domain.V_destinos;
+import com.ventas.pasarela.domain.V_destinos;
 
 @Repository
 @Mapper

@@ -1,4 +1,4 @@
-package com.grupopalomino.ventas.pasarela;
+package com.ventas.pasarela;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
